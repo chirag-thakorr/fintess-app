@@ -1,0 +1,26 @@
+.all-exercises {
+    background-color: #ffe0b2;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .all-exercises h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .all-exercises button {
+    background-color: #61dafb;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .all-exercises button:hover {
+    background-color: #21a1f1;
+  }
+  

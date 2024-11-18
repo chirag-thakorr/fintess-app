@@ -1,0 +1,26 @@
+.exercise-by-body-part {
+    background-color: #e0f7fa;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .exercise-by-body-part h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .exercise-by-body-part button {
+    background-color: #61dafb;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .exercise-by-body-part button:hover {
+    background-color: #21a1f1;
+  }
+  
